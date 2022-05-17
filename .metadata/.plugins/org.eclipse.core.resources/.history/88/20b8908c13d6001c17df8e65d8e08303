@@ -1,0 +1,16 @@
+package model.entities;
+
+import java.util.Date;
+
+public class Contract {
+	
+	private Integer number;
+	private Date dateContract;
+	private Double totalValue;
+	
+	public Contract() {
+	}
+
+	
+	
+}
